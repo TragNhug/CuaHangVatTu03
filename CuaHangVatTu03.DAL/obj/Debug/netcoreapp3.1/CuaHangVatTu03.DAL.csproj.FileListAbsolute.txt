@@ -1,0 +1,16 @@
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\obj\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.csproj.AssemblyReference.cache
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\obj\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\obj\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.AssemblyInfoInputs.cache
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\obj\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.AssemblyInfo.cs
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\obj\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.csproj.CoreCompileInputs.cache
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\bin\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.deps.json
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\bin\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.runtimeconfig.json
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\bin\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.runtimeconfig.dev.json
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\bin\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.dll
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\bin\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.pdb
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\bin\Debug\netcoreapp3.1\CuaHangVatTu03.Common.dll
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\bin\Debug\netcoreapp3.1\CuaHangVatTu03.Common.pdb
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\obj\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.csproj.CopyComplete
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\obj\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.dll
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\obj\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.pdb
+D:\CuaHangVatTu03\CuaHangVatTu03.DAL\obj\Debug\netcoreapp3.1\CuaHangVatTu03.DAL.genruntimeconfig.cache
